@@ -1,0 +1,21 @@
+{
+  "name": "nestique",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "astro": "^5.0.0",
+    "@astrojs/mdx": "^3.1.0",
+    "@astrojs/tailwind": "^4.0.0",
+    "@tailwindcss/typography": "^0.5.9",
+    "clsx": "^2.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "eslint": "^8.56.0"
+  }
+}
